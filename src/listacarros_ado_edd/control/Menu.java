@@ -52,7 +52,7 @@ public class Menu {
                 + "2- Pesquisar carro pelo modelo\n"
                 + "3- Listar carros\n"
                 + "4- Remover carro pelo modelo\n"
-                + "5- Remover todos (criar método)");
+                + "5- Remover todos");
 
         return input.nextInt();
 
